@@ -3,6 +3,11 @@
   "repo": "zope.tales",
   "versions": [
     {
+      "commit": "ca0a578a35ea2ad2a4d1227237743dcdedc4936b",
+      "tag": "backups/nikhil_n-py25@78055",
+      "parsed_at": "2026-11-22T00:58:52.273603+00:00"
+    },
+    {
       "commit": "24559529fabec400b984f1c2dfe0cf9cb4ec9a86",
       "tag": "",
       "parsed_at": "2026-11-06T02:04:21.073092+00:00"
